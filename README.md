@@ -47,4 +47,4 @@ Explore the live versions of my projects to see my design work in action:
 Feel free to reach out for collaborations or inquiries:
 
 Email: sarahalgarny@gmail.com
-Linkedin: https://shorturl.at/25Asy
+Linkedin: https://www.linkedin.com/in/sarah-algarny-8a39341ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
