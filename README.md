@@ -8,6 +8,8 @@ View Projects
 Contact Information
 
 💻 My Projects
+My UI Designes: 
+https://www.figma.com/proto/WLRxEFEWt8G1YjI1Egv57C/The-Finale---AFK-Bootcamp--Community-?node-id=2125-15596&starting-point-node-id=2125%3A19252
 
 🌚Planet (Planet E-Commerce)
 Explore the universe with the Planet Explorer app, where you can choose any planet to visit—from the Moon to distant exoplanets! 
@@ -36,10 +38,14 @@ JavaScript
 Explore the live versions of my projects to see my design work in action:
 
 🌚Planet App: https://figma.fun/9OWJdE
+
 🎬AI Movie App: https://figma.fun/58H5OL
+
 ✈️Flyway App: https://figma.fun/QLNCm6
+
 🌟Some Other Work: Live Version
 🕋HajjHelper: https://www.figma.com/proto/Lg3ONOZ8D6rVfewFjxeddJ/HajjHelper-interface?node-id=473-282&t=p2QOWgxpjAcphJvs-1&scaling=min-zoom&content-scaling=fixed&page-id=1669%3A162202&starting-point-node-id=473%3A282&show-proto-sidebar=1
+
 🎈LilTechPlanet Web: https://liltechplanet.github.io/index.html
 
 
