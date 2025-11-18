@@ -7,9 +7,9 @@ Technologies Used
 View Projects
 Contact Information
 
+My UI Designes: https://www.figma.com/proto/WLRxEFEWt8G1YjI1Egv57C/The-Finale---AFK-Bootcamp--Community-?node-id=2125-15652&starting-point-node-id=2125%3A19252
+
 💻 My Projects
-My UI Designes: 
-https://www.figma.com/proto/WLRxEFEWt8G1YjI1Egv57C/The-Finale---AFK-Bootcamp--Community-?node-id=2125-15596&starting-point-node-id=2125%3A19252
 
 🌚Planet (Planet E-Commerce)
 Explore the universe with the Planet Explorer app, where you can choose any planet to visit—from the Moon to distant exoplanets! 
